@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lady-fantasy-dev&label=Profile%20views&color=0e75b6&style=flat" alt="lady-fantasy-dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lady-fantasy-dev" alt="lady-fantasy-dev" /></a> </p>
-
 - 🔭 I’m currently open to positions as a **Software Developer** in Berlin!
 
 - 🌱 I’m  working on **improving my knowledge of front-end technologies, especially React, while keeping my back-end knowledge strong.**

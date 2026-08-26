@@ -7,19 +7,22 @@ Backend-leaning Software Engineer with a strong QA & reliability background · B
 <img src="https://komarev.com/ghpvc/?username=lady-fantasy-dev&label=Profile%20views&color=0e75b6&style=flat" alt="lady-fantasy-dev" />
 </p>
 
-- 🔭 Open to **Backend / Software Engineer** roles (Ruby-focused, backend-first)
+- 🔭 Open to **Backend / Software Engineer** roles, with a focus on APIs, business logic, data flows & reliability
 
 - 🧠 Background in **backend development, QA automation, and production systems**  
-  I enjoy working on APIs, integrations, data flows, and system reliability.
+  I enjoy building and testing APIs, debugging complex problems, working with data, and improving system reliability.
 
-- 🛠 Primary stack: **Ruby on Rails**, REST APIs, testing (unit / integration / E2E)  
-  Experience with MongoDB, SQL basics, Docker, CI/CD (Jenkins)
+- 🛠 Backend experience: **Ruby on Rails, Node.js, TypeScript, REST APIs**  
+  Testing with **RSpec, Jest, Cucumber, Supertest** · MongoDB · SQL · Docker · CI/CD
 
-- 🌱 Currently expanding into **Node.js & TypeScript** while building on strong backend fundamentals
+- 🌱 Currently expanding my backend skills through a **Software Engineering Weiterbildung with GFN GmbH**, including:
+  **Python programming, SQL & databases**, with PCEP/PCAP certification preparation
 
-- 🤝 Open to collaboration on **backend, API, or quality-focused projects**
+- 🔧 Interested in **API design, backend architecture, automated testing, debugging, and data-driven systems**
 
-- 💬 Ask me about **Ruby on Rails, backend testing strategies, API design, QA-to-dev transitions**
+- 🤝 Open to collaboration on **backend, API, testing, or quality-focused projects**
+
+- 💬 Ask me about **Ruby on Rails, backend testing, API development, debugging, and QA automation**
 
 - ⚡ Fun fact: I love underground / alternative music, swimming & diving, and long backpacking trips
 
